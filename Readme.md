@@ -75,13 +75,7 @@ Les captures d’écran suivantes montrent l’interface principale de la platef
 
 ![Capture d'écran de l'assistant médical AI](screenshots/assistant.png)
 
-### Page de prédiction
 
-![Capture d'écran de la page de prédiction](screenshots/predict.png)
-
-### Résultat de l’analyse
-
-![Capture d'écran de la page de résultat](screenshots/result.png)
 
 ---
 
