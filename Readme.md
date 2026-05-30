@@ -43,7 +43,49 @@ Typography: **Syne** (display/headings) + **DM Sans** (body) — loaded from Goo
 
 ---
 
-## 🔄 Login Page — v2 Redesign
+## 📸 Captures d’écran
+
+Les captures d’écran suivantes montrent l’interface principale de la plateforme. Placez vos images dans le dossier `screenshots/` et remplacez les noms de fichiers si nécessaire.
+
+### Page de connexion
+
+![Capture d'écran de la page de connexion](screenshots/login.png)
+
+### Tableau de bord
+
+![Capture d'écran du dashboard](screenshots/dashboard.png)
+
+### Données patients
+
+![Capture d'écran de la page patients](screenshots/patients.png)
+
+### Lancement d’une nouvelle analyse
+
+![Capture d'écran de la page de nouvelle analyse](screenshots/new_analysis.png)
+
+### Centre de notifications
+
+![Capture d'écran du centre de notifications](screenshots/notifications.png)
+
+### Configuration
+
+![Capture d'écran de la page de configuration](screenshots/settings.png)
+
+### Assistant médical AI
+
+![Capture d'écran de l'assistant médical AI](screenshots/assistant.png)
+
+### Page de prédiction
+
+![Capture d'écran de la page de prédiction](screenshots/predict.png)
+
+### Résultat de l’analyse
+
+![Capture d'écran de la page de résultat](screenshots/result.png)
+
+---
+
+## �🔄 Login Page — v2 Redesign
 
 `login.html` was redesigned from a **two-column split layout** into a **full-page immersive background + centered glass card**:
 

@@ -1,0 +1,7 @@
+Flask
+pandas
+numpy
+Scikit-learn
+os
+tensorflow-cpu
+mysql.connector
